@@ -4,3 +4,8 @@ Con echo 1 db MCS16 con modifica mult stima canale la soglia è 14.5 dB di C/N
 
 Con echo 1 db MCS12 con solo la modifica alla soglia di rumore la sogliaè 15 dB di C/N
 Con echo 1 db MCS12 con modifica mult stima canale la soglia è 8.5 dB di C/N
+
+Sempre con modifica stima di canale
+con v = 0 soglia 11 dB C/N
+Con 0<V<75 soglia 18 dB C/N
+Con V > 75 aggancio impossibile
