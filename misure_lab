@@ -6,6 +6,14 @@ Con echo 1 db MCS12 con solo la modifica alla soglia di rumore la sogliaè 15 dB
 Con echo 1 db MCS12 con modifica mult stima canale la soglia è 8.5 dB di C/N
 
 Sempre con modifica stima di canale
-con v = 0 soglia 11 dB C/N
+con v = 0 soglia 10.8 dB C/N
 Con 0<V<75 soglia 18 dB C/N
 Con V > 75 aggancio impossibile
+
+
+REL12  
+con AWGN puro MCS12 C/N 7.6 dB
+con echo a 1dB in soglia a C/N a 9.5 dB 
+con Rice in soglia a 8 dB C/N
+con TU6  fermo soglia a 11 C/N
+con TU6 movimento 5 km/h non aggancia
